@@ -5,8 +5,8 @@
 
 
 
-[![icons8-GitHub-48](https://img.icons8.com/3d-fluency/94/github.png)](https://twitter.com/YeBeKhe)
-[![icons8-gmail-48](https://img.icons8.com/3d-fluency/94/gmail.png)](mailto:YeBeKhe@gmail.com)
+[![icons8-GitHub-48](https://img.icons8.com/3d-fluency/64/github.png)](https://twitter.com/YeBeKhe)
+[![icons8-gmail-48](https://img.icons8.com/3d-fluency/64/gmail.png)](mailto:YeBeKhe@gmail.com)
 [![icons8-Telegram-48](https://img.icons8.com/3d-fluency/94/telegram.png)](https://t.me/YeBeKhe)
 [![icons8-Instagram-48](https://img.icons8.com/3d-fluency/94/instagram-new.png)](https://twitter.com/YeBeKhe)
 
