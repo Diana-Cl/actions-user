@@ -9,3 +9,4 @@
 [![icons8-GitHub-48](https://img.icons8.com/color/48/null/github.png)](https://gitlab.com/YeBeKhe)
 [![icons8-Telegram-48](https://img.icons8.com/fluency/48/null/telegram-app.png)](https://t.me/YeBeKhe)
 [![icons8-Instagram-48](https://img.icons8.com/color/48/instagram.png)](https://twitter.com/YeBeKhe)
+<img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
