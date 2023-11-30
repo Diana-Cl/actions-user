@@ -9,4 +9,4 @@
 [![icons8-gmail-48](https://img.icons8.com/3d-fluency/64/gmail.png)](mailto:YeBeKhe@gmail.com)
 [![icons8-Instagram-48](https://img.icons8.com/3d-fluency/64/instagram-new.png)](https://twitter.com/YeBeKhe)
 [![icons8-Telegram-48](https://img.icons8.com/3d-fluency/64/telegram.png)](https://t.me/YeBeKhe)
-[![icons8-LinkedIn-48](https://img.icons8.com/3d-fluency/94/linkedin.png)](https://t.me/YeBeKhe)
+[![icons8-LinkedIn-48](https://img.icons8.com/3d-fluency/64/linkedin.png)](https://t.me/YeBeKhe)
