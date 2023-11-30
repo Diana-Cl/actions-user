@@ -1,5 +1,5 @@
 # actions-user
-[![My Skills](https://skillicons.dev/icons?i=github)](https://t.me/NiREvil)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://t.me/farfaraway10)
 
-[![My Skills](https://skillicons.dev/icons?i=Instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 nothing else 
