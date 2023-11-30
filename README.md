@@ -9,4 +9,4 @@
 [![icons8-GitHub-48](https://img.icons8.com/color/48/null/github.png)](https://gitlab.com/YeBeKhe)
 [![icons8-Telegram-48](https://img.icons8.com/fluency/48/null/telegram-app.png)](https://t.me/YeBeKhe)
 [![icons8-Instagram-48](https://img.icons8.com/color/48/instagram-new--v1.png)](https://twitter.com/YeBeKhe)
-[![icons8-Instagram-48](https://img.icons8.com/nolan/48/instagram-new.png)](https://twitter.com/YeBeKhe)
+[![icons8-GitHub-48](https://img.icons8.com/3d-fluency/48/github.png)](https://twitter.com/YeBeKhe)
